@@ -31,10 +31,10 @@ dependencies {
 
 apply plugin: 'com.novoda.bintray-release'
 publish {
-  userOrg = 'donglua'
-  groupId = 'me.zhuolei.photopicker'
+  userOrg = 'maxdeny'
+  groupId = 'me.maxdeny.photopicker'
   artifactId = 'PhotoPicker'
   publishVersion = '0.9.10'
   desc = 'Photo Picker'
-  website = 'https://github.com/donglua/PhotoPicker'
+  website = 'https://github.com/maxdeny/PhotoPicker'
 }
